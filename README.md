@@ -1,5 +1,7 @@
 # 🌍 공간 임베딩 튜토리얼 (Spatial Embedding Tutorial)
 
+https://nbviewer.org/github/thlee33/understand_embeding/blob/main/embedding_tutorial.ipynb  
+
 컴퓨터가 지구 전체나 특정 장소를 어떻게 기억하고 분석하는지 궁금했나요? 이 튜토리얼은 컴퓨터가 지도 위의 다양한 속성(바다, 도시, 산, 사막)을 어떻게 숫자 암호인 **'임베딩(Embedding)'**으로 바꾸어 이해하는지 흥미롭고 쉽게 설명하는 가이드라인입니다.
 
 가로세로 200m 크기의 아주 작은 2x2 가상 세계부터 시작하여, 실제 구글이나 NVIDIA 등이 사용하는 고차원 공간 임베딩의 원리까지 파이썬 코드를 통해 재미있게 학습해 봅니다.
